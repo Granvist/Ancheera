@@ -14,6 +14,7 @@ Use one of the following options to open the DevTools
 1. Select *More Tools > Developer Tools* from Chrome's Main Menu.
 2. Right-click a page element and select *Inspect*.
 3. Press <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>I</kbd> (Mac) or <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> (Windows, Linux).
+4. Press F12
 
 Then select the `AnCheera` Panel.
 
